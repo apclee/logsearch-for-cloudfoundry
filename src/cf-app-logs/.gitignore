@@ -6,7 +6,6 @@
 .project
 .settings/
 .springBeans
-target/
 bin/
 _site/
 .idea
